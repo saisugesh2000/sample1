@@ -1,0 +1,50 @@
+{
+   "Header":[
+       {
+           "CompanyLogo": "https://s3-alpha-sig.figma.com/img/0d13/38b1/51608de8c9b119fa5fcfc056577dc6d7?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VCR-FYLW4UYGXj~TO4YvsuO7S10G4mkmvoDYZ9an7qh8U1oIjvc1E1nE4hn8beG9jyxaUSLiNN1EcF-~373V4VzDdKyjHegZ~DnAwgI5rCIku6~BbuMmYxMOSQ8TVnoLXUK~PlJr9m~AgCRFuFxgJTr4sMrf2wJ-HWQxpvPSzoBbaXcEChYxSgRWxN7AppBAry58Hdp-nUlbYCsSmZDt5polZOglRozY2Kej2977DnxjKIf~ed8YrT08oMPuH2ODXFD5C9h2Bm7WFbe~niC3BzwdoXf3qRf9ccd~K1r8gC6B-FHFYYPbIBopHHVEla3i0~JyMY~axkZRewI36iUlvw__",
+           "CompanyName": "RidhiTek",
+           "Label_Home": "Home",
+           "Label_Service": "Service",
+           "Label_About": "About",
+           "Label_Contact": "Contact"   
+       }],
+    "welcome":[
+       {
+          "Label_welcome":"Welcome to Ridhitek",
+          "Label_DigitalTransformation":"Digital Transformation",
+          "Label_IT Solution":"IT Solutions & Services.",
+          "Para_Homeleft":"In today's constantly evolving world, many organizations find it challenging to adapt to the demands of the digital era. Traditional methods often prove inadequate in meeting the struggles posed by technological advancements, hindering growth and efficiency. Without the necessary expertise and resources, businesses risk falling behind competitors and failing to capitalize on emerging opportunities ",
+          "Button_started":"Get Started",
+          "Rightside-image":"/assets/IMAGES/Right-hero.jpeg"
+       }
+    ],
+    "Contactus":[
+       { 
+          "Label_letstalk":"LET'S TALK",
+          "Para_contact":"Questions, comments, or suggestions? Simply fill in the form and we’ll be in touch shortly.",
+          "Label_Formname":"Name",
+          "Label_Contact":"Contact Number",
+          "Label_Email":"Email Address",
+          "Label_message":"Write Your Message",
+          "Button_sendmessage":"Send Message"
+
+       }
+    ],
+    "About":[
+       {
+           "Label_sec1_head_subone":"Our",
+           "Label_sec1_head_subtwo":"Story Begins Here",
+           "Label_sec1_pargph":"At RidhiTek, our core mission is unwavering: to make a lasting, positive impact. Our highly skilled and dedicated team embodies our collective principles, turning them into reality every day. By merging innovative solutions with our pooled expertise, we achieve remarkable results.",
+           "Label_sec2_frst_col_top":"10+ Years",
+           "Label_sec2_frst_col_bot":"Years of Service",
+           "Label_sec2_sec_col_top":"200+",
+           "Label_sec2_sec_col_bot":"Employees",
+           "Label_sec2_trd_col_top":"50+",
+           "Label_sec2_trd_col_bot":"Trusting Clients",
+           "Label_sec2_furt_col_top":"15+",
+           "Label_sec2_furt_col_bot":"Countries"
+       }
+    ]
+      
+   
+}
